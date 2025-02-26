@@ -34,15 +34,6 @@ Manages player withdrawals due to injuries or other reasons.
 ### Match History Tracking
 Records match results and maintains a historical log of the tournament.
 
-## Team Members and Task Allocation
-- **[Name Member 1]**: Tournament Scheduling and Player Progression
-- **[Name Member 2]**: Ticket Sales and Spectator Management
-- **[Name Member 3]**: Handling Player Withdrawals
-- **[Name Member 4]**: Match History Tracking
-
-## Submission Instructions
-1. Submit the C++ solution in a zip folder, inclusive of .cpp, .hpp, and csv/text files.
-2. Schedule and perform a live presentation demonstrating individual contributions.
 
 ## Contact
-For any questions or issues, please contact the team leader: [Name Leader].
+For any questions or issues, please contact the team leader: [TP074287].
